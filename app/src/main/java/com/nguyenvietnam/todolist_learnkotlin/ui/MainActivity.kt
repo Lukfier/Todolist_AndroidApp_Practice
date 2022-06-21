@@ -1,7 +1,8 @@
-package com.nguyenvietnam.todolist_learnkotlin
+package com.nguyenvietnam.todolist_learnkotlin.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.nguyenvietnam.todolist_learnkotlin.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
